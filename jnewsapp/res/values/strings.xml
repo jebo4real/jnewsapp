@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">jnewsapp</string>
+    <string name="fdbk">Feedback</string>
+    <string name="cd">UserLogo</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+
+</resources>
